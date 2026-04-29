@@ -2,7 +2,7 @@
 > Capturing moments, freezing time.
 
 ## 🚀 Live Demo
-(building)
+https://lens-1777486675.vercel.app
 
 ## ✨ Features
 - **Masonry Gallery:** A highly responsive grid layout designed to showcase high-resolution photography with optimal visual flow.
@@ -18,8 +18,8 @@
 
 ## 🏃 Quick Start
 ```bash
-git clone 
-cd 
+git clone https://github.com/techkeshav23/lens-1777486675
+cd lens-1777486675
 npm install
 npm run dev
 ```
